@@ -1,0 +1,24 @@
+{
+  "title": "Nightshade",
+  "name": "nightshade",
+  "description": "This dark theme is based on the monokai dark soda color scheme from Sublime Text.",
+  "version": "1.0.0",
+  "author": {
+  "name": "NightShade",
+  "url": "https://github.com/thanightshade"
+  },
+  "homepage": "https://github.com/thanightshade/brackets-theme-nightshade",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/thanightshade/brackets-theme-nightshade.git"
+    },
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=1.0.0"
+  },
+  "theme": {
+    "file": "main.less",
+    "dark": true
+  },
+  "keywords": ["theme","monokai","dark","soda","sublime","nightshade"]
+}
