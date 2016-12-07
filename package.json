@@ -5,12 +5,12 @@
   "version": "1.0.0",
   "author": {
   "name": "NightShade",
-  "url": "https://github.com/thanightshade"
+  "url": "https://github.com/bernardo-amaral"
   },
-  "homepage": "https://github.com/thanightshade/brackets-theme-nightshade",
+  "homepage": "https://github.com/bernardo-amaral/brackets-theme-nightshade",
   "repository": {
         "type": "git",
-        "url": "https://github.com/thanightshade/brackets-theme-nightshade.git"
+        "url": "https://github.com/bernardo-amaral/brackets-theme-nightshade.git"
     },
   "license": "MIT",
   "engines": {
